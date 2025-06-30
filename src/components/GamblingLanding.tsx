@@ -28,7 +28,7 @@ const GamblingLanding = () => {
         >
           <div className="flex flex-col items-center gap-3">
             <Icon name="Zap" size={48} />
-            <span className="font-montserrat">СЛОТЫ</span>
+            <span className="font-montserrat">telegram + bonus</span>
           </div>
         </Button>
 
