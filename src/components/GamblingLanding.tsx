@@ -33,7 +33,9 @@ const GamblingLanding = () => {
 
         {/* Кнопка 2 - Покер */}
         <Button
-          onClick={() => openLink("https://1wcjlr.com/?p=h40e")}
+          onClick={() =>
+            openLink("https://1wllkg.life/casino/list?open=register&p=sbpl")
+          }
           className="h-32 md:h-40 bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-white font-bold text-xl md:text-2xl rounded-2xl shadow-2xl transform hover:scale-105 transition-all duration-300 hover:shadow-emerald-500/50"
         >
           <div className="flex flex-col items-center gap-3">
@@ -44,7 +46,9 @@ const GamblingLanding = () => {
 
         {/* Кнопка 3 - Рулетка */}
         <Button
-          onClick={() => openLink("https://1wcjlr.com/?p=h40e")}
+          onClick={() =>
+            openLink("https://1wllkg.life/casino/list?open=register&p=sbpl")
+          }
           className="h-32 md:h-40 bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold text-xl md:text-2xl rounded-2xl shadow-2xl transform hover:scale-105 transition-all duration-300 hover:shadow-purple-500/50"
         >
           <div className="flex flex-col items-center gap-3">
