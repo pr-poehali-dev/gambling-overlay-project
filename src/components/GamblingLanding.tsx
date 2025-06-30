@@ -54,7 +54,7 @@ const GamblingLanding = () => {
         >
           <div className="flex flex-col items-center gap-3">
             <Icon name="Circle" size={48} />
-            <span className="font-montserrat">РУЛЕТКА</span>
+            <span className="font-montserrat">Mainkan sekarang</span>
           </div>
         </Button>
       </div>
