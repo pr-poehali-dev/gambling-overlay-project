@@ -53,7 +53,7 @@ const GamblingLanding = () => {
           className="h-32 md:h-40 bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold text-xl md:text-2xl rounded-2xl shadow-2xl transform hover:scale-105 transition-all duration-300 hover:shadow-purple-500/50"
         >
           <div className="flex flex-col items-center gap-3">
-            <Icon name="RefreshCw" size={48} />
+            <Icon name="Rocket" size={48} />
             <span className="font-montserrat">РУЛЕТКА</span>
           </div>
         </Button>
