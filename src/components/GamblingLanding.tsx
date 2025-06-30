@@ -22,7 +22,7 @@ const GamblingLanding = () => {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-4xl">
         {/* Кнопка 1 - Слоты */}
         <Button
-          onClick={() => openLink("https://твоя-ссылка-1.com")}
+          onClick={() => openLink("https://t.me/+v_-CZBwlYqg1OWZi")}
           className="h-32 md:h-40 bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white font-bold text-xl md:text-2xl rounded-2xl shadow-2xl transform hover:scale-105 transition-all duration-300 hover:shadow-orange-500/50"
         >
           <div className="flex flex-col items-center gap-3">
@@ -33,7 +33,7 @@ const GamblingLanding = () => {
 
         {/* Кнопка 2 - Покер */}
         <Button
-          onClick={() => openLink("https://твоя-ссылка-2.com")}
+          onClick={() => openLink("https://1wcjlr.com/?p=h40e")}
           className="h-32 md:h-40 bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-white font-bold text-xl md:text-2xl rounded-2xl shadow-2xl transform hover:scale-105 transition-all duration-300 hover:shadow-emerald-500/50"
         >
           <div className="flex flex-col items-center gap-3">
@@ -44,7 +44,7 @@ const GamblingLanding = () => {
 
         {/* Кнопка 3 - Рулетка */}
         <Button
-          onClick={() => openLink("https://твоя-ссылка-3.com")}
+          onClick={() => openLink("https://1wcjlr.com/?p=h40e")}
           className="h-32 md:h-40 bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold text-xl md:text-2xl rounded-2xl shadow-2xl transform hover:scale-105 transition-all duration-300 hover:shadow-purple-500/50"
         >
           <div className="flex flex-col items-center gap-3">
