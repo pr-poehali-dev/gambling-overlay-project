@@ -62,7 +62,7 @@ const GamblingLanding = () => {
       {/* Дополнительная информация */}
       <div className="mt-12 text-center">
         <p className="text-purple-200 text-lg font-roboto">
-          🎲 Играй ответственно • 18+ • Удача ждет!
+          🎲 Mainkan secara bertanggung jawab • 18+ • Semoga Semo ga sukses!
         </p>
       </div>
 
