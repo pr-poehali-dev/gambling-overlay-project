@@ -11,7 +11,8 @@ const GamblingLanding = () => {
       {/* Заголовок */}
       <div className="text-center mb-12">
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-4 font-montserrat">
-          🎰 CASINO
+          {" "}
+          🕹️tautan{" "}
         </h1>
         <p className="md:text-2xl text-purple-100 font-serif italic mx-0.5 px-6 py-4 bg-black/20 rounded-xl border border-purple-300/30 shadow-lg backdrop-blur-sm text-xl text-center">
           jika tautan tidak berfungsi, masuk ke telegram. Ada bonus setiap hari
