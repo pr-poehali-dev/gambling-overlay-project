@@ -41,7 +41,7 @@ const GamblingLanding = () => {
         >
           <div className="flex flex-col items-center gap-3">
             <Icon name="Spade" size={48} />
-            <span className="font-montserrat"></span>
+            <span className="font-montserrat">SPIN SLOTS</span>
           </div>
         </Button>
 
