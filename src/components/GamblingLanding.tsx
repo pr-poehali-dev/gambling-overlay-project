@@ -13,10 +13,9 @@ const GamblingLanding = () => {
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-4 font-montserrat">
           🎰 CASINO
         </h1>
-        <p className="text-xl md:text-2xl text-purple-100 font-serif italic mx-0.5 px-6 py-4 bg-black/20 rounded-xl border border-purple-300/30 shadow-lg backdrop-blur-sm">
-          ✨ Jika tautan tidak berfungsi, masuk ke telegram.
-          <br />
-          🎁 Ada bonus setiap hari dan semua permainan! 🎰
+        <p className="md:text-2xl text-purple-100 font-serif italic mx-0.5 px-6 py-4 bg-black/20 rounded-xl border border-purple-300/30 shadow-lg backdrop-blur-sm text-xl text-center">
+          jika tautan tidak berfungsi, masuk ke telegram. Ada bonus setiap hari
+          dan semua permainan 🎁
         </p>
       </div>
 
